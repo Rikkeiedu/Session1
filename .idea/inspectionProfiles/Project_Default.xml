@@ -1,0 +1,51 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="langchain-text-splitters" />
+          <option value="langchain-community" />
+          <option value="langchain-openai" />
+          <option value="langchain-core" />
+          <option value="faiss-cpu" />
+          <option value="unstructured" />
+          <option value="pypdf" />
+          <option value="python-dotenv" />
+          <option value="numpy" />
+          <option value="scipy" />
+          <option value="pandas" />
+          <option value="scikit-learn" />
+          <option value="librosa" />
+          <option value="soundfile" />
+          <option value="audiomentations" />
+          <option value="tqdm" />
+          <option value="PyYAML" />
+          <option value="einops" />
+          <option value="matplotlib" />
+          <option value="seaborn" />
+          <option value="tensorboard" />
+          <option value="rich" />
+          <option value="joblib" />
+          <option value="timm" />
+          <option value="transformers" />
+          <option value="accelerate" />
+          <option value="lightning" />
+          <option value="torchmetrics" />
+          <option value="opencv-python-headless" />
+          <option value="packaging" />
+          <option value="ninja" />
+          <option value="wheel" />
+          <option value="torch" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="timm" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
